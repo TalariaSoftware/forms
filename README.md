@@ -56,6 +56,10 @@ All government services must be accessible to people with disabilities. In many 
 
 #### Resources
 [Create Accessible Digital Products](https://section508.gov/create)
+[Guide to Accessible Web Design & Development](https://www.section508.gov/content/guide-accessible-web-design-development)
+[18F Accessibility Guide](https://accessibility.18f.gov)
+[Accessibility for Teams](https://accessibility.digital.gov)
+[US Web Design System](https://designsystem.digital.gov)
 
 ### Translations
 
