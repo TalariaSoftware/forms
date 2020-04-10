@@ -10,7 +10,7 @@ In the long ago time, the only way to submit a form was to visit the agency in q
 
 The information age has improved the situation somewhat. Some agencies offer webforms or even native apps for people to make requests. But for the most part, paper forms still rule, though they are usually downloadable as PDF files and sometimes even fillable PDFs. The process is still slow and difficult, especially for people with low bandwidth, small screens, slow devices, accessibiility needs, and/or language barriers.
 
-The goal of this project is to give governemnts a tool they can use to make it easier for the public to submit forms. 
+The goal of this project is to give governments a tool they can use to make it easier for the public to submit forms. 
 
 ## Roadmap
 
